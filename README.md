@@ -109,21 +109,39 @@ https://github.com/ananyadivakar/Portfolio
 - 🧩 Data Structures & Algorithms
 - ☁️ REST APIs, Git & GitHub
 ---
+## 📊 GitHub Stats
 
-## 📫 Connect With Me
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ananyadivakar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadivakar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+---
 
-🌐 Portfolio  
-https://ananyadivakar.github.io/Portfolio/
+## 🔥 GitHub Streak
 
-💼 LinkedIn  
-YOUR_LINKEDIN_URL
-
-💻 GitHub  
-https://github.com/ananyadivakar
-
-📧 Email  
-ananyad853@gmail.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ananyadivakar&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
+
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ananyadivakar.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="mailto:ananyad853@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
