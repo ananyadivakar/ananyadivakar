@@ -95,6 +95,7 @@ https://github.com/ananyadivakar/Portfolio
 
 ## 📜 Certifications
 
+- Python Full Stack development-Dhee Coding Lab
 - AWS Foundations of Prompt Engineering
 - AWS Fundamentals of Generative AI
 - NPTEL – Programming in Java
