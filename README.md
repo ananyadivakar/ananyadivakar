@@ -110,13 +110,6 @@ https://github.com/ananyadivakar/Portfolio
 - 🧩 Data Structures & Algorithms
 - ☁️ REST APIs, Git & GitHub
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ananyadivakar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyadivakar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
----
 
 ## 🔥 GitHub Streak
 
