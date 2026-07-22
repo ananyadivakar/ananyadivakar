@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ananya D</h1>
-<h3 align="center">Software Developer | Python | Java | React | Django</h3>
+<h3 align="center">Software Developer | Python | React | Django</h3>
 
 <p align="center">
   <a href="https://ananyadivakar.github.io/Portfolio/">🌐 Portfolio</a> •
@@ -12,7 +12,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Information Science & Engineering Graduate
-- 💻 Passionate about Backend Development and Full-Stack Web Development
+💻 Passionate about building scalable web applications and solving real-world problems through software.
 - 🌱 Currently improving my Data Structures & Algorithms, REST APIs, and System Design skills
 - 🚀 Looking for opportunities as a **Software Developer**, **Backend Developer**, or **Full-Stack Developer**
 - 📫 Reach me at: **ananyad853@gmail.com**
@@ -22,7 +22,6 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-- Java
 - Python
 - JavaScript
 - SQL
@@ -31,7 +30,6 @@
 - React
 - HTML5
 - CSS3
-- Tailwind CSS
 
 ### Backend
 - Django
@@ -46,9 +44,6 @@
 - Git
 - GitHub
 - VS Code
-- Postman
-- Chart.js
-
 ---
 
 ## 🚀 Featured Projects
@@ -103,18 +98,16 @@ https://github.com/ananyadivakar/Portfolio
 - AWS Foundations of Prompt Engineering
 - AWS Fundamentals of Generative AI
 - NPTEL – Programming in Java
-- Google Cloud – Introduction to Generative AI
-
 ---
 
 ## 📈 Current Focus
 
-- Backend Development
-- Full-Stack Development
-- REST API Design
-- Data Structures & Algorithms
-- System Design Fundamentals
-
+- 💻 Software Development
+- ⚙️ Backend Development with Python & Django
+- 🌐 Full-Stack Web Development (React & Django)
+- 🤖 Generative AI & AI-Powered Applications
+- 🧩 Data Structures & Algorithms
+- ☁️ REST APIs, Git & GitHub
 ---
 
 ## 📫 Connect With Me
