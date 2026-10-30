@@ -114,7 +114,10 @@ https://github.com/ananyadivakar/Portfolio
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ananyadivakar&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=ananyadivakar&theme=tokyonight&hide_border=true&border_radius=10"
+    alt="Ananya's GitHub Streak"
+  />
 </p>
 
 ---
@@ -124,11 +127,11 @@ https://github.com/ananyadivakar/Portfolio
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/ananyadivakar25/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://ananyadivakar.github.io/Portfolio/">
+<a href="https://ananyadivakar.github.io/ananyadivakar">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
